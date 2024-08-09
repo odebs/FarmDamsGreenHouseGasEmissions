@@ -1,5 +1,5 @@
 # FarmDamsGreenHouseGasEmissions
-Benefits of fencing farm dams to exclude livestock on seasonal total methane emissions and water quality
+Excluding livestock access to farm dams reduces methane emissions and boosts water quality
 
 Instructions:
 
